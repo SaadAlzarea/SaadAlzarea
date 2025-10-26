@@ -2,7 +2,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SaadAlzarea&theme=dark&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=9ca3af" alt="Saad Alzarea Streak" />
 </h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid meet">
+
   <!-- Background -->
   <rect width="100%" height="100%" fill="#0d1117"/>
 
@@ -520,7 +520,7 @@
   <!-- (your green cells stay the same) -->
 </g>
 
-</svg>
+
 
 
 <h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
