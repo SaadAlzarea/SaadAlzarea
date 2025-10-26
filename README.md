@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SaadAlzarea&theme=dark&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6&sideLabels=3b82f6&dates=9ca3af" alt="Saad Alzarea Streak" />
+</h1>
 
 <h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
 <h3 align="center">🚀 Full Stack Developer | ⚙️ MERN Stack Enthusiast | 💡 Lifelong Learner</h3>
