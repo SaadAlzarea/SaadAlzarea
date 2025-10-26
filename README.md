@@ -26,6 +26,11 @@
   📱 <strong>+966 50 789 3317</strong>
 </p>
 
+### 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mysql,postgres,html,css,tailwind,nextjs,express,figma,git" alt="Skills icons" />
+</p>
 ---
 
 ### 😄 About Me
