@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,django,mysql,postgres,html,css,tailwind,express,figma,git" alt="Skills icons" />
 </p>
----
+
 
 ### 😄 About Me
 
