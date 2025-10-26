@@ -29,7 +29,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mysql,postgres,html,css,tailwind,nextjs,express,figma,git" alt="Skills icons" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,js,python,mysql,postgres,html,css,tailwind,express,figma,git" alt="Skills icons" />
 </p>
 ---
 
