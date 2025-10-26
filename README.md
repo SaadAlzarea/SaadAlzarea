@@ -491,6 +491,35 @@
 
   <!-- small signature under the grid -->
   <text x="20" y="190" fill="#9aa4ad" font-family="monospace" font-size="12">Saad Alzarea — GitHub grid-style banner</text>
+  <style>
+  /* Subtle glow animation for green cells */
+  #cell-green rect {
+    animation: glow 2s infinite ease-in-out;
+  }
+
+  @keyframes glow {
+    0%, 100% { fill: #18a94b; filter: drop-shadow(0 0 0px #18a94b); }
+    50% { fill: #22d65f; filter: drop-shadow(0 0 6px #22d65f); }
+  }
+
+  /* Fun entrance animation */
+  .fade-in {
+    opacity: 0;
+    transform: scale(0.5);
+    animation: pop 1s forwards;
+  }
+
+  @keyframes pop {
+    0% { opacity: 0; transform: scale(0.5) rotate(10deg); }
+    80% { opacity: 1; transform: scale(1.1) rotate(-3deg); }
+    100% { opacity: 1; transform: scale(1) rotate(0); }
+  }
+</style>
+
+<g transform="translate(20,30)" class="fade-in">
+  <!-- (your green cells stay the same) -->
+</g>
+
 </svg>
 
 
