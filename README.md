@@ -7,6 +7,9 @@
 <h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
 <h3 align="center">Full Stack Developer | React & MERN Stack Enthusiast | Software Engineer</h3>
 
+<h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
+<h3 align="center">Full Stack Developer | React & MERN Stack Enthusiast | Software Engineer</h3>
+
 <p align="center">
   <a href="mailto:sfalzarea@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
@@ -17,9 +20,10 @@
   <a href="https://x.com/swe_salzarea?s=11&t=MXwYyz4jwVWD9_fM56RzCw">
     <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" />
   </a>
-  <a href="tel:+966507893317">
-    <img src="https://img.shields.io/badge/-Phone-25D366?style=flat-square&logo=WhatsApp&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  📱 <strong>+966 50 789 3317</strong>
 </p>
 
 ---
