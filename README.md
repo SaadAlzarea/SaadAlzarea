@@ -1,11 +1,4 @@
-## Hey there 👋, I'm [Saad F. Alzarea!](https://github.com/iampavangandhi/)
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/saad-f-alzarea-866a61305)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/swe_salzarea?s=11&t=MXwYyz4jwVWD9_fM56RzCw)
-
-<h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
-<h3 align="center">Full Stack Developer | React & MERN Stack Enthusiast | Software Engineer</h3>
 
 <h1 align="center">Hey there, I'm Saad F. Alzarea 👋</h1>
 <h3 align="center">Full Stack Developer | React & MERN Stack Enthusiast | Software Engineer</h3>
